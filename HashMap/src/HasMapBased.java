@@ -72,7 +72,7 @@ public class HasMapBased {
             Object key = iterator2.next ();
             Object value = map.get (key);
             System.out.println (key + "------>" + value);
-
+            System.out.println ();
         }
 
 
